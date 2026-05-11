@@ -1,5 +1,7 @@
 # 💫 About Me:
-Quality Engineering professional with 7+ years of experience in enterprise test automation, team leadership, and CI/CD delivery within Canada's financial services sector. At TD Bank, I lead a team of six engineers and drive automation strategy across mobile and web banking platforms — implementing AI-driven test generation that reduced manual effort by 30%.<br><br>I complement my professional work with applied AI development — building tools that automate document intelligence and streamline workflows. My focus is on transitioning into QE Architecture, Software Architecture, or DevOps — bringing together automation expertise, AI integration experience, and a systems-level perspective.<br><br>Outside of work, I'm a football enthusiast, travel lover, and always experimenting with the latest AI tools. If you're looking to automate, scale, or modernise your engineering workflows — let's connect!
+Most AI agents in production today would fail a 30-minute audit. I know because I've run the tests — 20 adversarial scenarios, 11 critical findings, including multi-turn attacks that extract system prompts across conversation turns. 
+
+My background is 7 years of zero-tolerance QA at TD Bank and RBC — mobile banking platforms where failure has regulatory consequences, not just user complaints. I led automation strategy across web and mobile, reduced manual test effort by 30%, and built CI/CD pipelines for continuous delivery at scale. That discipline is now aimed at AI agents.
 
 
 ## 🌐 Socials:
